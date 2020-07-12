@@ -11,7 +11,8 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
 - I'm currently learning Javascript and Flutter
 - I'm currently focusing on improving my DS and Algo skill
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/advaithu/)   [Twitter Badge](https://twitter.com/AdvaithUnnikri1)
-
 - Fun Fact - I'm a potterhead
+
 *To know more about me visit my [portfolio](https://advaith-unnikrishnan.github.io/)*
 
+![Advaith's github stats](https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&hide=["issues"])
