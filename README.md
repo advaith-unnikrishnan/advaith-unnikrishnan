@@ -17,5 +17,6 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
 ----
 
 *To know more about me visit my [portfolio](https://advaith-unnikrishnan.github.io/)*
+<p align="left"><a href="https://github.com/advaith-unnikrishnan?tab=repositories"><img src="https://camo.githubusercontent.com/af26ad02eaecd4ed6bc549d026874e4c722721ef/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626173656d6178" alt="advaith-unnikrishnan"></a></p>
 
 ![Advaith's github stats](https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&hide=["issues"])
