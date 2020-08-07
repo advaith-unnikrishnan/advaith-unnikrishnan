@@ -2,6 +2,8 @@
 
 <!--
 **advaith-unnikrishnan/advaith-unnikrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Will be updating soon to do the video
 -->
 ----
 Hi I am Advaith. I am currently an undergraduate student majoring in Computer Science and Engineering.I love to work with Java and Python. I like to explore technologies such as AI and IoT. 
