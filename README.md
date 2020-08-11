@@ -16,7 +16,7 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/advaith_unni?style=social)](https://twitter.com/advaith_unni)
 
-![](https://komarev.com/ghpvc/?username=advaith-uniikrishnan&color=blue&style=flat-square&label=profile-visits)
+<!--![](https://komarev.com/ghpvc/?username=advaith-uniikrishnan&color=blue&style=flat-square&label=profile-visits)-->
 
 ----
 
