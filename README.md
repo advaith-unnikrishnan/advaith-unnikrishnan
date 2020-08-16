@@ -24,4 +24,4 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
 
 ![Advaith's github stats](https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&hide=["issues"])
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advaith-unnikrishnan&show_icons=true&layout=compact)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advaith-unnikrishnan&&show_icons=true)
