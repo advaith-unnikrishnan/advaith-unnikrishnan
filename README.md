@@ -14,9 +14,10 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
 - I'm currently focusing on improving my DS and Algo skill
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/advaithu/) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=advaith-unnikrishnan" alt="advaith unnikrishnan" /> </p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/advaith_unni?style=social)](https://twitter.com/advaith_unni)
 
-<!--![](https://komarev.com/ghpvc/?username=advaith-uniikrishnan&color=blue&style=flat-square&label=profile-visits)-->
 
 ----
 
