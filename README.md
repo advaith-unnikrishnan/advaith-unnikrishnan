@@ -33,4 +33,6 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
   <a href="https://www.instagram.com/_advaith_unnikrishnan_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/advaith_unni"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="advaithunni2000@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
+  <a href="https://medium.com/@advaithunni2000"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
+
   </p>
