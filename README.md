@@ -27,6 +27,8 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advaith-unnikrishnan&&show_icons=true)
 
+<!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=advaith-unnikrishnan&column=7" alt="advaith-unnikrishnan" /></a> </p>-->
+
 ----
 <!--<p align="center">
   <a href="https://www.linkedin.com/in/advaithu/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
@@ -35,3 +37,5 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
   <a href="mailto:advaithunni2000@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   <a href="https://medium.com/@advaithunni2000"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   </p>-->
+
+[![Repos Badge](https://badges.pufler.dev/repos/advaith-unnikrishnan)](https://advaith-unnikrishnan.github.io)
