@@ -38,4 +38,9 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
   <a href="https://medium.com/@advaithunni2000"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   </p>-->
 
-[![Repos Badge](https://badges.pufler.dev/repos/advaith-unnikrishnan)](https://advaith-unnikrishnan.github.io)
+<!--[![Repos Badge](https://badges.pufler.dev/repos/advaith-unnikrishnan)](https://advaith-unnikrishnan.github.io)>
+----
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
