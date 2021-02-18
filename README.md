@@ -43,7 +43,7 @@ Hi I am Advaith. I am currently an undergraduate student majoring in Computer Sc
 
 <!--START_SECTION:waka-->
 ```text
-CSS     1 hr 40 mins    ████████████████▒░░░░░░░░   65.74 % 
-HTML    51 mins         ████████▒░░░░░░░░░░░░░░░░   33.86 % 
+CSS     1 hr 44 mins    ███████████████▒░░░░░░░░░   61.35 % 
+HTML    1 hr 5 mins     █████████▓░░░░░░░░░░░░░░░   38.37 % 
 ```
 <!--END_SECTION:waka-->
