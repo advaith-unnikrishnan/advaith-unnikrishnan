@@ -1,24 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Advaith</h1>
+<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>
 
-<!--
-**advaith-unnikrishnan/advaith-unnikrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Will be updating soon to do the video
--->
-----
-I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.  
-
+<!--I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.  
 *I am a people person and love being part of communities. I had the honor of being a **Microsoft Learn Student Ambassador and Developer Student Clubs Lead** in my college, thus empowering students by providing learning opportunities and mentorship.  I am always excited to talk about community building and technology. I spend my weekends attending meetups, sometimes hosting them or as a speaker. I love to implement what I have learned and consider side projects and hackathons as the best way to do it.*
-
 If you are looking for someone skilled in Python, Java, Web Development,  Leadership, Team Management, Strategic Planning, Public Speaking, or Community building  I would be a good fit. If you like to collaborate on projects, discuss some ideas or products, or want to know more about community building or student programs just reach out to me via mail.  I would be happy to help.
-
 - I'm interested in Web development.
 - Ask me about Python, Java and building communities
 - I'm currently learning React JS
 - I'm currently focusing on improving my DS and Algo skill
-- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/advaithu/) 
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/advaithu/)-->
 
-----
 <!--[![](https://img.shields.io/badge/Personal-Blog-Blue?style=for-the-badge&logo=HTML)](https://advaithunnikrishnan.me/)
 [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/advaithu/)
 [![](https://img.shields.io/badge/_advaith_unnikrishnan_-Instagram-Blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/_advaith_unnikrishnan_/)
