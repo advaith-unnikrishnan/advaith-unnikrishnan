@@ -48,8 +48,8 @@ If you are looking for someone skilled in Python, Java, Web Development,  Leader
 
 <!--START_SECTION:waka-->
 ```text
-HTML         1 hr 43 mins    ██████████████████████▒░░   88.83 % 
-CSS          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+HTML         2 hrs 12 mins   ███████████████████████░░   91.68 % 
+CSS          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 <!--END_SECTION:waka-->
