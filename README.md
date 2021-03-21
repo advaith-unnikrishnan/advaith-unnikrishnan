@@ -19,8 +19,8 @@ If you are looking for someone skilled in Python, Java, Web Development,  Leader
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/advaith_unni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="advaith_unni" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/advaithu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="advaithu" height="30" width="40" /></a>
+<a href="https://twitter.com/advaith_unni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1616310680~hmac=4700a9b76f6764e8bc7a770128d11cda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/advaithu" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1616310811~hmac=30663771acf015f440ef4fdaa9cecfdb" alt="advaithu" height="30" width="40" /></a>
 </p>
 
 ----
