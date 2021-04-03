@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Advaith</h1>
 <h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>
 
-<!--I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.  
-*I am a people person and love being part of communities. I had the honor of being a **Microsoft Learn Student Ambassador and Developer Student Clubs Lead** in my college, thus empowering students by providing learning opportunities and mentorship.  I am always excited to talk about community building and technology. I spend my weekends attending meetups, sometimes hosting them or as a speaker. I love to implement what I have learned and consider side projects and hackathons as the best way to do it.*
-If you are looking for someone skilled in Python, Java, Web Development,  Leadership, Team Management, Strategic Planning, Public Speaking, or Community building  I would be a good fit. If you like to collaborate on projects, discuss some ideas or products, or want to know more about community building or student programs just reach out to me via mail.  I would be happy to help.
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">
+
+
+<p>I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.</p>
+
+
+<p>I am a people person and love being part of communities. <strong>I had the honor of being a Microsoft Learn Student Ambassador and Developer Student Clubs Lead in my college, thus empowering students by providing learning opportunities and mentorship.</strong>If you like to collaborate on projects, discuss some ideas or products, or want to know more about community building or student programs just reach out to me via mail.  I would be happy to help.</p>
+
+
+
+
 - I'm interested in Web development.
-- Ask me about Python, Java and building communities
-- I'm currently learning React JS
+- Ask me about Python, Java and Community Building
+- I'm currently learning MERN Stack
 - I'm currently focusing on improving my DS and Algo skill
-- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/advaithu/)-->
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/advaithu/)  [Mail](mailto:advaithunni2000@gmail.com)
 
 <!--[![](https://img.shields.io/badge/Personal-Blog-Blue?style=for-the-badge&logo=HTML)](https://advaithunnikrishnan.me/)
 [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/advaithu/)
