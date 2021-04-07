@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
 <h1 align="center">Hi 👋, I'm Advaith</h1>
 <h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>
 
@@ -12,11 +13,15 @@
 
 
 
-- I'm interested in Web development.
-- Ask me about Python, Java and Community Building
-- I'm currently learning MERN Stack
-- I'm currently focusing on improving my DS and Algo skill
-- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/advaithu/)  [Mail](mailto:advaithunni2000@gmail.com)
+▶️ I'm interested in Web development.
+
+▶️ Ask me about Python, Java and Community Building
+
+▶️ I'm currently learning MERN Stack
+
+▶️ I'm currently focusing on improving my DS and Algo skill
+
+📫 How to reach me: [Twitter](https://twitter.com/advaith_unni) | [LinkedIn](https://www.linkedin.com/in/advaithu/) | [Mail](mailto:advaithunni2000@gmail.com)
 
 <!--[![](https://img.shields.io/badge/Personal-Blog-Blue?style=for-the-badge&logo=HTML)](https://advaithunnikrishnan.me/)
 [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/advaithu/)
