@@ -21,21 +21,8 @@
 
 ▶️ I'm currently focusing on improving my DS and Algo skill
 
-📫 How to reach me: [Twitter](https://twitter.com/advaith_unni) | [LinkedIn](https://www.linkedin.com/in/advaithu/) | [Mail](mailto:advaithunni2000@gmail.com)
+📫 How to reach me: <a href="https://twitter.com/advaith_unni" target="_blank"><img src="/media/twitter.svg"></img></a> | <a href="https://www.linkedin.com/in/advaithu/" target="_blank"><img src="/media/linkedin.svg"></img></a> | <a href="mailto:advaithunni2000@gmail.com" target="_blank"><img src="/media/mail.svg"></img></a>
 
-<!--[![](https://img.shields.io/badge/Personal-Blog-Blue?style=for-the-badge&logo=HTML)](https://advaithunnikrishnan.me/)
-[![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/advaithu/)
-[![](https://img.shields.io/badge/_advaith_unnikrishnan_-Instagram-Blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/_advaith_unnikrishnan_/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/advaith_unni?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/advaith_unni).-->
-  
-----
-<!---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/advaith_unni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1616310680~hmac=4700a9b76f6764e8bc7a770128d11cda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/advaithu" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1616310811~hmac=30663771acf015f440ef4fdaa9cecfdb" alt="advaithu" height="30" width="40" /></a>
-</p>
---->
 ----
 
 <h3 align="left">Languages and Tools:</h3>
