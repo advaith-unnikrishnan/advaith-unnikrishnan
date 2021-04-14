@@ -3,7 +3,8 @@
 <!--<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>-->
 <img src="/media/banner.png">
 <h1 align="center">Hi 👋, I'm Advaith</h1>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">
+
+<!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">-->
 
 
 <!--<p>I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.</p>-->
