@@ -1,11 +1,12 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
-<h1 align="center">Hi 👋, I'm Advaith</h1>
-<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>
 
+<!--<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>-->
+<img src="/media/banner.png">
+<h1 align="center">Hi 👋, I'm Advaith</h1>
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">
 
 
-<p>I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.</p>
+<!--<p>I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.</p>-->
 
 
 <p>I am a people person and love being part of communities. <strong>I had the honor of being a Microsoft Learn Student Ambassador and Developer Student Clubs Lead in my college, thus empowering students by providing learning opportunities and mentorship.</strong>If you like to collaborate on projects, discuss some ideas or products, or want to know more about community building or student programs just reach out to me via mail.  I would be happy to help.</p>
