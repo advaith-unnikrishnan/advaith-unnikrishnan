@@ -3,6 +3,9 @@
 <!--<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>-->
 <img src="/media/banner.png">
 <h1 align="center">Hi 👋, I'm Advaith</h1>
+<p align="center">
+<a href="https://blog.advaithunnikrishnan.me/">Blog</a> | <a href="https://twitter.com/advaith_unni">Twitter</a>
+</p>
 
 <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">-->
 
@@ -23,7 +26,7 @@
 
 ▶️ I'm currently focusing on improving my DS and Algo skill
 
-📫 How to reach me: <a href="https://twitter.com/advaith_unni" target="_blank"><img src="/media/twitter.svg"></img></a> | <a href="https://www.linkedin.com/in/advaithu/" target="_blank"><img src="/media/linkedin.svg"></img></a> | <a href="mailto:advaithunni2000@gmail.com" target="_blank"><img src="/media/mail.svg"></img></a>
+📫 How to reach me: [@advaith_unni](https://twitter.com/advaith_unni) on Twitter
 
 ----
 
@@ -56,8 +59,10 @@
   <a href="https://medium.com/@advaithunni2000"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   </p>-->
 
-<!--[![Repos Badge](https://badges.pufler.dev/repos/advaith-unnikrishnan)](https://advaith-unnikrishnan.github.io)>
-----
+<!--[![Repos Badge](https://badges.pufler.dev/repos/advaith-unnikrishnan)](https://advaith-unnikrishnan.github.io)>-->
+
+### 📊 Weekly Development Breakdown
+
 
 <!--START_SECTION:waka-->
 ```text
