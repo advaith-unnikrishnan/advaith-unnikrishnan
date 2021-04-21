@@ -22,11 +22,25 @@
 
 ▶️ Ask me about Python, Java and Community Building
 
-▶️ I'm currently learning MERN Stack
+▶️ I'm currently learning ReactJS
 
-▶️ I'm currently focusing on improving my DS and Algo skill
+▶️ I'm looking to collaborate on any open source projects using Javscript
 
-📫 How to reach me: [@advaith_unni](https://twitter.com/advaith_unni) on Twitter
+<h2 align="center">Connect Me !! 🤝</h2> 
+
+<p align="center">
+<a href="https://github.com/advaith-unnikrishnan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/advaithu/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/advaith_unni" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:advaithunni2000@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> 
 
 ----
 
