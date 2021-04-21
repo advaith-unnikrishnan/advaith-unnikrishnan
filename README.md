@@ -44,9 +44,13 @@
 
 [![Advaith's github activity graph](https://activity-graph.herokuapp.com/graph?username=advaith-unnikrishnan&theme=xcode)](https://git.io/advaith-unnikrishnan)
 
-![Advaith's github stats](https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&hide=["issues"])
-
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advaith-unnikrishnan&&show_icons=true)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=advaith-unnikrishnan&theme=radical">
+</p>
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=advaith-unnikrishnan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
 
 <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=advaith-unnikrishnan&column=7" alt="advaith-unnikrishnan" /></a> </p>-->
 
