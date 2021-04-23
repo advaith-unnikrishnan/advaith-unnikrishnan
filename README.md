@@ -17,14 +17,13 @@
 
 
 
+🕸️ I'm interested in Web development.
 
-▶️ I'm interested in Web development.
+❓ Ask me about Python, Java and Community Building
 
-▶️ Ask me about Python, Java and Community Building
+📖 I'm currently learning ReactJS
 
-▶️ I'm currently learning ReactJS
-
-▶️ I'm looking to collaborate on any open source projects using Javscript
+🤝 I'm looking to collaborate on any open source projects using Javscript
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
