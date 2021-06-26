@@ -4,7 +4,7 @@
 <img src="/media/banner.png">
 <h1 align="center">Hi 👋, I'm Advaith</h1>
 <p align="center">
-<a href="https://blog.advaithunnikrishnan.me/">Blog</a> | <a href="https://twitter.com/advaith_unni">Twitter</a>
+<a href="https://blog.advaithunnikrishnan.me/">Blog</a> | <a href="https://twitter.com/advaith_u">Twitter</a>
 </p>
 
 <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">-->
@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/advaithu/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/advaith_unni" target="_blank">
+<a href="https://twitter.com/advaith_u" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://blog.advaithunnikrishnan.me/">
