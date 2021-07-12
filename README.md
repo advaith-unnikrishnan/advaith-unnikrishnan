@@ -57,7 +57,7 @@
 </p>
 </details>
 
-[![Advaith's github activity graph](https://activity-graph.herokuapp.com/graph?username=advaith-unnikrishnan&theme=xcode)](https://git.io/advaith-unnikrishnan)
+[![Advaith's github activity graph](https://activity-graph.herokuapp.com/graph?username=advaith-unnikrishnan&theme=xcode)](https://github.com/advaith-unnikrishnan)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&theme=radical&line_height=27">
@@ -67,20 +67,12 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=advaith-unnikrishnan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-<!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=advaith-unnikrishnan&column=7" alt="advaith-unnikrishnan" /></a> </p>-->
+## 📖 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-----
-<!--<p align="center">
-  <a href="https://www.linkedin.com/in/advaithu/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/_advaith_unnikrishnan_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/advaith_unni"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-  <a href="mailto:advaithunni2000@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
-  <a href="https://medium.com/@advaithunni2000"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
-  </p>-->
 
-<!--[![Repos Badge](https://badges.pufler.dev/repos/advaith-unnikrishnan)](https://advaith-unnikrishnan.github.io)>-->
-
-### 📊 Weekly Development Breakdown
+## 📊 Weekly Development Breakdown
 
 
 <!--START_SECTION:waka-->
