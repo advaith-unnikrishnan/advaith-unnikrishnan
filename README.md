@@ -23,7 +23,7 @@
 
 📖 I'm currently learning ReactJS
 
-🤝 I'm looking to collaborate on any open source projects using Javscript
+🤝 I'm looking to collaborate on any open source projects using Javascript
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
