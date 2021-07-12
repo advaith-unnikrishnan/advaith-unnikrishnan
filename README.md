@@ -69,6 +69,7 @@
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The First Coffee](https://blog.advaithunnikrishnan.me/the-first-coffee)
 <!-- BLOG-POST-LIST:END -->
 
 
