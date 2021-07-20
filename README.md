@@ -69,7 +69,7 @@
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphism - The multiverse](https://blog.advaithunnikrishnan.me/polymorphism-the-multiverse)
+- [Polymorphism](https://blog.advaithunnikrishnan.me/polymorphism)
 - [The First Coffee](https://blog.advaithunnikrishnan.me/the-first-coffee)
 <!-- BLOG-POST-LIST:END -->
 
