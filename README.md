@@ -69,7 +69,7 @@
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphism](https://blog.advaithunnikrishnan.me/polymorphism)
+- [Polymorphism in Java](https://blog.advaithunnikrishnan.me/polymorphism-in-java)
 - [The First Coffee](https://blog.advaithunnikrishnan.me/the-first-coffee)
 <!-- BLOG-POST-LIST:END -->
 
