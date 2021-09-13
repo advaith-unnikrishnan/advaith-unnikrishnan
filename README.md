@@ -69,8 +69,8 @@
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphism in Java](https://blog.advaithunnikrishnan.me/polymorphism-in-java)
-- [The First Coffee](https://blog.advaithunnikrishnan.me/the-first-coffee)
+- [Polymorphism in Java](https://blog.advaith.tech/polymorphism-in-java)
+- [The First Coffee](https://blog.advaith.tech/the-first-coffee)
 <!-- BLOG-POST-LIST:END -->
 
 
