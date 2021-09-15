@@ -69,6 +69,7 @@
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I started technical writing](https://blog.advaith.tech/how-i-started-technical-writing)
 - [Polymorphism in Java](https://blog.advaith.tech/polymorphism-in-java)
 - [The First Coffee](https://blog.advaith.tech/the-first-coffee)
 <!-- BLOG-POST-LIST:END -->
