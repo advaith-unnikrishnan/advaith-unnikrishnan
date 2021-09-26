@@ -80,7 +80,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Assembly     39 mins         █████████████████░░░░░░░░   67.45 % 
-Markdown     18 mins         ███████▓░░░░░░░░░░░░░░░░░   31.08 % 
+Assembly     39 mins         █████████████████▓░░░░░░░   70.81 % 
+Markdown     15 mins         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
 ```
 <!--END_SECTION:waka-->
