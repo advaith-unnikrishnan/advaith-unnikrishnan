@@ -63,9 +63,9 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=advaith-unnikrishnan&theme=radical">
 </p>
-<p align = "center">
+<!-- <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=advaith-unnikrishnan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>
+</p> -->
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
