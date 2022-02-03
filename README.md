@@ -4,7 +4,7 @@
 <img src="/media/banner.png">
 <h1 align="center">Hi 👋, I'm Advaith</h1>
 <p align="center">
-<a href="https://blog.advaith.tech/">Blog</a> | <a href="https://twitter.com/advaith_u">Twitter</a>
+<a href="https://blog.advaith.co/">Blog</a> | <a href="https://twitter.com/advaith_u">Twitter</a>
 </p>
 
 <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">-->
