@@ -73,7 +73,7 @@
 - [Polymorphism in Java](https://blog.advaith.co/polymorphism-in-java)
 - [The First Coffee](https://blog.advaith.co/the-first-coffee)
 - [Beginner’s Guide to Cloud Computing](https://blog.advaith.co/beginners-guide-to-cloud-computing-545698131be)
-- [Analysis of Algorithms](https://blog.advaith.co/analysis-of-algorithms-4c9b2c4e6f68)
+- [Analysis of Algorithms](https://blog.advaith.co/analysis-of-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 
