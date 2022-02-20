@@ -82,8 +82,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 15 mins
-
 HTML       12 mins         █████████████████████░░░░   83.85 % 
 CSS        1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 ```
