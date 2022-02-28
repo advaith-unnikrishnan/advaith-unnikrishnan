@@ -1,7 +1,7 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
 
 <!--<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>-->
-<img src="/media/banner.png">
+<img src="/media/1.png">
 <h1 align="center">Hi 👋, I'm Advaith</h1>
 <p align="center">
 <a href="https://blog.advaith.co/">Blog</a> | <a href="https://twitter.com/advaith_u">Twitter</a>
