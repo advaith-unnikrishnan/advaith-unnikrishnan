@@ -67,6 +67,9 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=advaith-unnikrishnan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> -->
 
+## ⚡ Github Activity
+<!--START_SECTION:activity-->
+
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How I started technical writing](https://blog.advaith.co/how-i-started-technical-writing)
