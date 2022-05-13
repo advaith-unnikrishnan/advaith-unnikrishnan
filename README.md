@@ -69,6 +69,9 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/advaith-unnikrishnan/Project/pull/1) in [advaith-unnikrishnan/Project](https://github.com/advaith-unnikrishnan/Project)
+2. 💪 Opened PR [#543](https://github.com/education/GitHubGraduation-2022/pull/543) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+<!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
