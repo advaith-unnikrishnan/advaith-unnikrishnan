@@ -89,11 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML         3 hrs 36 mins   ███████████████▒░░░░░░░░░   61.58 %
-CSS          2 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   35.96 %
-Git          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
