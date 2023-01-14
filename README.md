@@ -7,8 +7,8 @@
 <a href="https://blog.advaith.co/">Blog</a> | <a href="https://twitter.com/advaith_u">Twitter</a>
 </p>
 
-<!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">-->
-
+<!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">
+ -->
 
 <!--<p>I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.</p>-->
 
@@ -25,7 +25,7 @@
 
 🤝 I'm looking to collaborate on any open source projects using Javascript
 
-<h2 align="center">Connect Me !! 🤝</h2> 
+<h2 align="center">Connect with Me !! 🤝</h2> 
 
 <p align="center">
 <a href="https://github.com/advaith-unnikrishnan" target="_blank">
@@ -57,7 +57,7 @@
 </p>
 </details>
 
-[![Advaith's github activity graph](https://activity-graph.herokuapp.com/graph?username=advaith-unnikrishnan&theme=xcode)](https://github.com/advaith-unnikrishnan)
+[![Advaith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=advaith-unnikrishnan&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&theme=radical&line_height=27">
