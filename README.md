@@ -116,8 +116,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/tinkerhub/maker-station/pull/16) in [tinkerhub/maker-station](https://github.com/tinkerhub/maker-station)
-2. 🎉 Merged PR [#15](https://github.com/tinkerhub/maker-station/pull/15) in [tinkerhub/maker-station](https://github.com/tinkerhub/maker-station)
+1. 🎉 Merged PR [#18](https://github.com/tinkerhub/maker-station/pull/18) in [tinkerhub/maker-station](https://github.com/tinkerhub/maker-station)
+2. 🎉 Merged PR [#16](https://github.com/tinkerhub/maker-station/pull/16) in [tinkerhub/maker-station](https://github.com/tinkerhub/maker-station)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
