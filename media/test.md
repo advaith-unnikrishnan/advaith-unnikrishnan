@@ -1,6 +1,6 @@
 ---
 title: Markdown Hosting
-permalink: /
+permalink: /test
 style: default
 ---
 # Testing Markdown 
