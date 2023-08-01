@@ -116,8 +116,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/tinkerhub/maker-station/pull/24) in [tinkerhub/maker-station](https://github.com/tinkerhub/maker-station)
-2. 🎉 Merged PR [#23](https://github.com/tinkerhub/maker-station/pull/23) in [tinkerhub/maker-station](https://github.com/tinkerhub/maker-station)
+1. 🎉 Merged PR [#5](https://github.com/advaith-unnikrishnan/portfolio/pull/5) in [advaith-unnikrishnan/portfolio](https://github.com/advaith-unnikrishnan/portfolio)
+2. 🎉 Merged PR [#24](https://github.com/tinkerhub/maker-station/pull/24) in [tinkerhub/maker-station](https://github.com/tinkerhub/maker-station)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
