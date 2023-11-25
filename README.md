@@ -116,8 +116,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3595](https://github.com/hoppscotch/hoppscotch/issues/3595#issuecomment-1826182612) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🎉 Merged PR [#7](https://github.com/advaith-unnikrishnan/portfolio/pull/7) in [advaith-unnikrishnan/portfolio](https://github.com/advaith-unnikrishnan/portfolio)
+1. 🗣 Commented on [#3593](https://github.com/hoppscotch/hoppscotch/issues/3593#issuecomment-1826185980) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#3595](https://github.com/hoppscotch/hoppscotch/issues/3595#issuecomment-1826182612) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
