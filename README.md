@@ -116,8 +116,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/pheralb/svgl/pull/62) in [pheralb/svgl](https://github.com/pheralb/svgl)
-2. 🗣 Commented on [#3593](https://github.com/hoppscotch/hoppscotch/issues/3593#issuecomment-1826185980) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. ❗ Opened issue [#73](https://github.com/pheralb/svgl/issues/73) in [pheralb/svgl](https://github.com/pheralb/svgl)
+2. 💪 Opened PR [#62](https://github.com/pheralb/svgl/pull/62) in [pheralb/svgl](https://github.com/pheralb/svgl)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
