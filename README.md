@@ -116,8 +116,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/pheralb/svgl/pull/89) in [pheralb/svgl](https://github.com/pheralb/svgl)
-2. ❗ Opened issue [#73](https://github.com/pheralb/svgl/issues/73) in [pheralb/svgl](https://github.com/pheralb/svgl)
+1. 💪 Opened PR [#179](https://github.com/pheralb/svgl/pull/179) in [pheralb/svgl](https://github.com/pheralb/svgl)
+2. 💪 Opened PR [#89](https://github.com/pheralb/svgl/pull/89) in [pheralb/svgl](https://github.com/pheralb/svgl)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
