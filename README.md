@@ -116,7 +116,7 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/pheralb/svgl/pull/179) in [pheralb/svgl](https://github.com/pheralb/svgl)
+1. 🎉 Merged PR [#8](https://github.com/advaith-unnikrishnan/portfolio/pull/8) in [advaith-unnikrishnan/portfolio](https://github.com/advaith-unnikrishnan/portfolio)
 2. 💪 Opened PR [#89](https://github.com/pheralb/svgl/pull/89) in [pheralb/svgl](https://github.com/pheralb/svgl)
 <!--END_SECTION:activity-->
 
