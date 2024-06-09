@@ -116,8 +116,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/advaith-unnikrishnan/portfolio/pull/8) in [advaith-unnikrishnan/portfolio](https://github.com/advaith-unnikrishnan/portfolio)
-2. 💪 Opened PR [#89](https://github.com/pheralb/svgl/pull/89) in [pheralb/svgl](https://github.com/pheralb/svgl)
+1. 🚀 Published release [Version 1](https://github.com/advaith-unnikrishnan/newsletter-workflow/releases/tag/v1.0.0) in [advaith-unnikrishnan/newsletter-workflow](https://github.com/advaith-unnikrishnan/newsletter-workflow)
+2. 🎉 Merged PR [#8](https://github.com/advaith-unnikrishnan/portfolio/pull/8) in [advaith-unnikrishnan/portfolio](https://github.com/advaith-unnikrishnan/portfolio)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
