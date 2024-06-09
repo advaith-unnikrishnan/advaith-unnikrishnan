@@ -122,11 +122,11 @@
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I started technical writing](https://iamadvaith.hashnode.dev/how-i-started-technical-writing)
-- [Polymorphism in Java](https://iamadvaith.hashnode.dev/polymorphism-in-java)
-- [The First Coffee](https://iamadvaith.hashnode.dev/the-first-coffee)
-- [Beginner’s Guide to Cloud Computing](https://iamadvaith.hashnode.dev/beginners-guide-to-cloud-computing-545698131be)
-- [Analysis of Algorithms](https://iamadvaith.hashnode.dev/analysis-of-algorithms)
+- [How I started technical writing](https://blog.advaith.co/how-i-started-technical-writing)
+- [Polymorphism in Java](https://blog.advaith.co/polymorphism-in-java)
+- [The First Coffee](https://blog.advaith.co/the-first-coffee)
+- [Beginner’s Guide to Cloud Computing](https://blog.advaith.co/beginners-guide-to-cloud-computing-545698131be)
+- [Analysis of Algorithms](https://blog.advaith.co/analysis-of-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 
