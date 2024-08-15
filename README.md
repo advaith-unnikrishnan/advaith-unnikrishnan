@@ -116,8 +116,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#179](https://github.com/pheralb/svgl/pull/179) in [pheralb/svgl](https://github.com/pheralb/svgl)
-2. 🚀 Published release [Version 1](https://github.com/advaith-unnikrishnan/newsletter-workflow/releases/tag/v1.0.0) in [advaith-unnikrishnan/newsletter-workflow](https://github.com/advaith-unnikrishnan/newsletter-workflow)
+1. 💪 Opened PR [#390](https://github.com/pheralb/svgl/pull/390) in [pheralb/svgl](https://github.com/pheralb/svgl)
+2. ❌ Closed PR [#179](https://github.com/pheralb/svgl/pull/179) in [pheralb/svgl](https://github.com/pheralb/svgl)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
