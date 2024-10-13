@@ -116,8 +116,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#390](https://github.com/pheralb/svgl/pull/390) in [pheralb/svgl](https://github.com/pheralb/svgl)
-2. ❌ Closed PR [#179](https://github.com/pheralb/svgl/pull/179) in [pheralb/svgl](https://github.com/pheralb/svgl)
+1. 💪 Opened PR [#14906](https://github.com/raycast/extensions/pull/14906) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 💪 Opened PR [#390](https://github.com/pheralb/svgl/pull/390) in [pheralb/svgl](https://github.com/pheralb/svgl)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
