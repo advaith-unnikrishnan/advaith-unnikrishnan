@@ -136,8 +136,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         0 secs          ███████████████▒░░░░░░░░░   61.88 %
-JavaScript   0 secs          █████████▓░░░░░░░░░░░░░░░   38.12 %
+JavaScript   0 secs          █████████████░░░░░░░░░░░░   52.50 %
+HTML         0 secs          ████████████░░░░░░░░░░░░░   47.50 %
 ```
 
 <!--END_SECTION:waka-->
