@@ -136,11 +136,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    8 mins          ████████████████████████░   95.81 %
-Image (svg)   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-JSON          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Git Config    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
