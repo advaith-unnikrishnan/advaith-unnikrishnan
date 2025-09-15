@@ -136,8 +136,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     50 mins         ████████████████████████▒   97.40 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
