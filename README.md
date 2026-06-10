@@ -136,9 +136,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        21 mins               ████████████████████████▓   98.68 %
-Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
